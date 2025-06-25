@@ -1,0 +1,12 @@
+# Ignore PyCharm and system files
+.idea/
+__pycache__/
+*.pyc
+
+# Ignore data and model artifacts
+*.npy
+*.pkl
+
+# Ignore virtual environments
+.venv/
+venv/
