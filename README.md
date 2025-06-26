@@ -31,6 +31,7 @@ gesture_app/
 ├── data/                   # Contains gesture data like 0.npy, 1.npy
 ├── models/                 # Saved trained model (.pkl)
 └── requirements.txt        # All dependencies
+|__ README.md               # Read me file.
 ```
 
 ---
